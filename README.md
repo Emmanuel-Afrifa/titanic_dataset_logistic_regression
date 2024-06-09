@@ -18,3 +18,22 @@ The aim of the project is to leverage the use of logistic regression in classify
 - Embarked - The port from where the passenger were boarded the Titanic. (C = Cherbourg, Q = Queenstown, S = Southampton)
 
 
+## Data Source
+- [Titanic Dataset](https://www.kaggle.com/competitions/titanic/data)
+
+
+## Procedure
+- Performed EDA to understand the dataset
+- Imputed the missing values
+- Split the data into training and test sets
+- Encoded Categorical Variables
+- Standardized numerical features
+- Evaluated the performance of the model on the tet set and plotted the ROC-curve
+
+
+## Author
+- Emmanuel Afrifa
+- [emmaquame9@gmail.com](mailto:emmaquame9@gmail.com)
+- [Frontend-Mentor](https://www.frontendmentor.io/profile/Emmanuel-Afrifa)
+- [Twitter](https://twitter.com/Emma33712365)
+- [Linkedin](https://www.linkedin.com/in/emmanuel-afrifa-840674214/)
